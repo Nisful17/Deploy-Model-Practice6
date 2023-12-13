@@ -3,6 +3,8 @@
 
 **Introduction**
 
+![alt text](https://github.com/Nisful17/Deploy-Model-Practice6/blob/main/Images/Predict-Result.png?raw=true)
+
 
 In this blog, we'll see how we can take your work and show it to an audience by deploying your projects on the web. Machine Learning engineers should know the implementation of deployment to use their models on a global scale.
 About the Model
